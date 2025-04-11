@@ -1,0 +1,12 @@
+u {font-weight : bold;}
+html {font-family : sans-serif;}
+body {
+    background-color:black;
+}
+html {font-family: "nome da fonte", sans-serif;}
+h1{text-align:; color:rgba(12, 201, 69, 0.788);}
+h2{text-align:; color:rgba(117, 223, 10, 0.767);}
+p {text-align:; color:rgb(138, 194, 138);}
+ul{text-align:;color:rgba(47, 207, 154, 0.884);}
+ol{text-align:; color:rgba(15, 206, 15, 0.685)}
+h3 {text-align:; color: rgba(117, 223, 10, 0.767);}
